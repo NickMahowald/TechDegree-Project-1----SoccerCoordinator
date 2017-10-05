@@ -1,1 +1,1 @@
-# TechDegree Project 1 -  SoccerCoordinator
+# TECHDEGREE PROJECT 1 - SOCCERCOORDINATOR
